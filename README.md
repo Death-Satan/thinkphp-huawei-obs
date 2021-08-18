@@ -1,6 +1,13 @@
 # thinkphp6 华为云 filesystem
 
 基于 [dscmall/laravel-filesystem-obs](https://github.com/dscmall/laravel-filesystem-obs) 轻度封装tp
+## 安装
+
+---
+```shell
+composer require death_satan/thinkphp-huawei-obs
+```
+---
 
 ## 初始化
 ### 修改配置 *config/filesystem.php* 文件
